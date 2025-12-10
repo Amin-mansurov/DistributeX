@@ -1,0 +1,8 @@
+Solo;10000;1;14.56
+Distributed;10000;2;5.91
+Solo;20000;1;132.75
+Distributed;20000;2;32.22
+Distributed;20000;3;26.35
+Solo;1000000;1;320402.03
+Distributed;1000000;2;88628.48
+Distributed;1000000;3;43847.75
